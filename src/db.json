@@ -1,0 +1,36 @@
+{
+    "product": [
+        {
+            "id": 0,
+            "name": "Samsung",
+            "color": "Black",
+            "price": "10000",
+            "brand": "Samsung",
+            "photo": "https://m.media-amazon.com/images/I/81xvGbBFNhL._SL1500_.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Oppo",
+            "color": "Black",
+            "price": "15000",
+            "brand": "Oppo",
+            "photo": "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/18/fIg2ecHEzMJu0yWT.png"
+        },
+        {
+            "id": 2,
+            "name": "Realme",
+            "color": "Black",
+            "price": "17000",
+            "brand": "Realme",
+            "photo": "https://image01.realme.net/general/20220402/1648889426560.png.webp"
+        },
+        {
+            "id": 3,
+            "name": "Apple",
+            "color": "Black",
+            "price": "100000",
+            "brand": "Apple",
+            "photo": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703416/Croma%20Assets/Communication/Mobiles/Images/261991_hhfa33.png/mxw_640,f_auto"
+        }
+    ]
+}
